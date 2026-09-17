@@ -116,10 +116,17 @@ Student-Performance-Analytics-System/
 │       ├── FileUtility.java
 │       └── InputValidator.java
 │
+├── screenshots/
+│   ├── main-menu.png
+│   ├── student-records.png
+│   ├── performance-report.png
+│   └── github-repository.png
+│
 ├── reports/
 │
 ├── README.md
-└── .gitignore
+├── .gitignore
+└── Final_Report.md
 ```
 
 ## 5. Requirements
