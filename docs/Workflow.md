@@ -21,7 +21,7 @@ The application follows a simple workflow from starting the program to performin
 - Marks and attendance records are retrieved.
 - Average marks and attendance are calculated.
 - The final report is displayed.
-```
+```mermaid
 flowchart TD
     A[Select Generate Report] --> B[Enter Student ID]
     B --> C[Find Student]
