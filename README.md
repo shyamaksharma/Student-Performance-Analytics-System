@@ -1,5 +1,5 @@
 # Student-Performance-Analytics-System
-A Java-based Student Performance and Academic Analytics System using OOP, Collections, Exception Handling, File I/O, Concurrency, and JDBC.
+A Java-based Student Performance Analytics System using Object-Oriented Programming, Collections, Exception Handling, File I/O, and Java NIO.
 
 ## 1. Project Overview
 
