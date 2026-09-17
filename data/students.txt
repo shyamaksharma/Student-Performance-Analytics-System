@@ -1,0 +1,3 @@
+101|Rahul Sharma|rahul@example.com|B.Tech CSE
+102|Priya Singh|priya@example.com|B.Tech CSE
+103|Aman Verma|aman@example.com|BCA

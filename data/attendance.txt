@@ -1,0 +1,9 @@
+101|Java|92.0
+101|Python|88.0
+101|Database|95.0
+102|Java|85.0
+102|Python|91.0
+102|Database|87.0
+103|Java|76.0
+103|Python|82.0
+103|Database|79.0
