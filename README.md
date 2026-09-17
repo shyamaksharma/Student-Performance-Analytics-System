@@ -108,23 +108,25 @@ Student-Performance-Analytics-System/
 │   │   ├── AttendanceService.java
 │   │   └── ReportService.java
 │   │
-│   ├── database/
-│   │
-│   ├── exceptions/
-│   │
 │   └── util/
 │       ├── FileUtility.java
 │       └── InputValidator.java
 │
-├── screenshots/
+├── Screenshots/
 │   ├── main-menu.png
 │   ├── student-records.png
 │   ├── performance-report.png
 │   └── github-repository.png
 │
-├── reports/
+├── docs/
+│   ├── architecture.md
+│   ├── workflow.md
+│   ├── use-case.md
+│   ├── class-diagram.md
+│   └── sequence.md
 │
 ├── README.md
+├── statement.md
 ├── .gitignore
 └── Final_Report.md
 ```
