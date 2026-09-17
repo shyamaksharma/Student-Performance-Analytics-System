@@ -120,6 +120,7 @@ Student-Performance-Analytics-System/
 │
 ├── README.md
 └── .gitignore
+```
 
 ## 5. Requirements
 
